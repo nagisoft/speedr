@@ -2,7 +2,7 @@
 
 Speedr is a speed reading app that helps you read faster and gain more knowledge
 
-- [Demo Website Speedr](https://nagisoft.github.io/speedr/)
+- [Demo Website Speedr](https://speedr.netlify.app/)
 
 ## Screenshots
 
