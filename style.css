@@ -1,0 +1,54 @@
+/*################# */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+body {
+  margin: 0;
+  background-color: #f7f6f9;
+}
+
+.logo {
+  font-size: 50px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.container {
+  text-align: center;
+  align-items: center;
+}
+/*----------- TEXT AREA ------------*/
+
+textarea {
+  width: 70%;
+  padding: 0.5em;
+  margin-top: 3em;
+  margin-left: 2em;
+  height: 50vh;
+  font-size: 1.2em;
+  border-radius: 25px;
+  border: 2px solid #ffaca3;
+  transition: all 0.4s ease;
+  resize: none;
+}
+
+p,
+label {
+  font-family: "Roboto";
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+#reader-wrapper {
+  align-items: center;
+  display: flex;
+  font-size: 2.5em;
+  justify-content: center;
+  min-height: 70vh;
+}
+
+button {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 6em;
+  height: 2.5em;
+  margin-left: 1em;
+}
